@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.all{
+    background-color: pink;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 730px;
+
+    
+    
+    
+    
+}
+
+.topbuton{
+    width: 70px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: palevioletred;
+}
+
+.numberbtn{
+    width: 70px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: palevioletred;
+}
+.sonuc{
+    width: 218px;
+    height: 55px;
+    border-radius: 8px;
+    background-color: rgb(203, 89, 127)
+    
+}
+
+
+   
+    
+.title{
+    color: rgb(128, 0, 75);
+}
